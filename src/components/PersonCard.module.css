@@ -1,0 +1,13 @@
+.btn {
+  padding: 12px 15px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  background: linear-gradient(30deg, rebeccapurple, rgb(0, 162, 255));
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+}
+.btn:hover {
+  cursor: pointer;
+  box-shadow: 2px 2px 20px gray;
+}
